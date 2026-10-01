@@ -1,0 +1,5 @@
+.venv
+src/__pycache__/
+data/
+PerCorr_handbook.md
+state-machine-v0.md
